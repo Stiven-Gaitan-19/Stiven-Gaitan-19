@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Stiven Gaitan</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 <br>
+<div align="center">
+	<H4>VISITOR COUNT</H4>
+	<img src="https://profile-counter.glitch.me/Stiven-Gaitan-19/count.svg">
+</div>
+<br><br>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
